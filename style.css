@@ -1,0 +1,18 @@
+.carousel-item img {
+    filter: brightness(50%);
+}
+.edu-register{
+    padding: 8%;
+}
+.edu-footer{
+    padding: 10%;
+}
+@media (max-width: 550px) {
+    .edu{
+      font-size:20px;
+    }
+    .edu-course img{
+        width: 400px;
+        height: 250px;
+    }
+  }
